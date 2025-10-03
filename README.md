@@ -19,7 +19,7 @@
 
 ### 方式1: 帕劳身份证官网注册
 
-官网： [https://rns.id/](https://rns.id/?rc_by=joXTZVdN)。使用邮箱登录即可。
+官网： [https://rns.id/](https://rns.id/zh-CN?rc_by=joXTZVdN)。使用邮箱登录即可。
 
 
 
