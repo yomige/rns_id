@@ -22,7 +22,7 @@
 
 官网： [https://rns.id/](https://rns.id/zh-CN?rc_by=joXTZVdN)。使用邮箱登录即可，申请年限分为1年/5年/10年，建议先申请个1年的，KYC什么的完全够用。
 
-<img src="/static/img-20251004074228.png" alt="帕劳数字居民身份证申请" >
+<img src="/static/bdBNy.png" alt="帕劳数字居民身份证申请" >
 
 
 
